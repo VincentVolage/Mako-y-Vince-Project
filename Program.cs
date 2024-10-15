@@ -11,7 +11,7 @@ namespace Mako_y_Vince_Project
         static void Main(string[] args)
         {
             Console.WriteLine("slt");
-            Console.ReadLine();
+            Console.ReadLine(); #yeeeeeeeeeeee
         }
     }
 }
