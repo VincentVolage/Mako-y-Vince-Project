@@ -12,6 +12,10 @@ namespace Mako_y_Vince_Project
         {
             Console.WriteLine("slt");
             Console.ReadLine(); #yeeeeeeeeeeee
+            Console.ReadLine();
+            Console.WriteLine("t'as pas réagi à ma réf sur Spirit");
+            Console.ReadLine();
+
         }
     }
 }
