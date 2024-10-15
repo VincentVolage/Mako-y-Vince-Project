@@ -21,7 +21,9 @@ namespace Mako_y_Vince_Project
 
             if(reponse == "r")
             {
-                Console.WriteLine("HAHHAAHAHAHAHAAH T_T") #hihihihihih
+
+                Console.WriteLine("HAHHAAHAHAHAHAAH T_T"); #hihihihihih
+                Console.WriteLine("HAHHAAHAHAHAHAAH T_T");
             }
             Console.ReadLine();
         }
