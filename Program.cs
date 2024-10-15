@@ -11,6 +11,8 @@ namespace Mako_y_Vince_Project
             Console.ReadLine();
             Console.WriteLine("t'as pas réagi à ma réf sur Spirit");
             Console.ReadLine();
+            Console.WriteLine("C'était la musique");
+            Console.ReadLine();
             Yo();
         }
 
